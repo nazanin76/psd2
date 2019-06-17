@@ -1,10 +1,25 @@
 body {
     margin: 0;
 }
+.main1{
+    background-color:#ebebe0;
+    width: 100%;
 
+
+}
 header {
     background-color: black;
     height: 80px;
+}
+.k{
+    float: left;
+    color: dodgerblue;
+    padding-left: 21%;
+}
+headerh h1{
+    float: left;
+    color:white;
+    padding-left: 19%;
 }
 
 img {
@@ -58,29 +73,37 @@ section {
 
 .logo {
     width: 20%;
-    height: 420px;
-    background-color: gainsboro;
-    margin: 18px;
+    height: 500px;
+    background-color:white;
+    margin: 11px;
+    padding: 22px;
 
 
 }
-
-.logo p {
-    color: deepskyblue;
+.logo p{
+    font-size: 20px;
+    color: #00ace6;
     text-align: center;
-    padding-top: 195px;
-    border-bottom: 1px solid darkgrey;
-    margin: 18px;
-    padding-bottom: 12px;
+    border-bottom: 1px solid  #ebebe0;
+    padding: 15px;
 }
+
 
 
 .logo h5 {
-    margin: 18px;
     color: darkgrey;
     text-align: center;
-    border-bottom: 1px solid darkgrey;
+    border-bottom: 1px solid #ebebe0 ;
     padding: 5px;
+    line-height: 2;
+    margin-top:-19px;
+}
+.logo h4{
+    color:darkgrey;
+    text-align: center;
+    border-bottom: 1px solid #ebebe0 ;
+    margin-top: 5px;
+    padding-bottom: 19px;
 }
 
 .h5 {
@@ -103,22 +126,62 @@ h1 {
 
 .logo1 {
     padding: 10px;
-    width: 20%;
-    border-bottom: 1px solid gray;
+    width: 23%;
+    border-bottom: 1px solid rgba(117, 113, 117, 0.73);
+
+}
+.statos{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: -37px;
+    padding: 10px;
+
 }
 
+.godi{
+    text-align: center;
+    width:50px ;
+    background-color: #0086b3;
+    position: absolute;
+
+
+}
+.godi{
+    clip-path: polygon(51% 0,83% 12%,100% 43%,94% 78%,68% 100% , 32% 100% , 6% 78% , 0% 43%,17% 12%);
+
+}
+.godi2{
+    text-align: center;
+    width:50px ;
+    background-color: #0086b3;
+    position: absolute;
+
+    clip-path: polygon(51% 0,83% 12%,100% 43%,94% 78%,68% 100% , 32% 100% , 6% 78% , 0% 43%,17% 12%);
+}
+.godi1{
+    text-align: center;
+    width:50px ;
+    background-color: #0086b3;
+    position: absolute;
+
+    clip-path: polygon(51% 0,83% 12%,100% 43%,94% 78%,68% 100% , 32% 100% , 6% 78% , 0% 43%,17% 12%);
+}
 .logo1 img {
     height: 134px;
+
 }
 .logo1 h3{
     text-align: center;
     font-size: 15px;
+   margin-top: 43px;
 }
 .logo1 p{
     text-align: center;
+    margin-top: 5px;
 }
 .mangol{
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid rgba(117, 113, 117, 0.73);
 }
 .mangol p {
     text-align: center;
@@ -131,9 +194,63 @@ h1 {
     height: 80px;
 }
 .mono1{
-    height: 250px;
-    background-color: midnightblue;
+    height: 333px;
+    background-color: #1c125f;
+
+}
+.mono1 h6{
+    font-size: 19px;
+    margin-left: 435px;
+    line-height: 2px;
+}
+.mono1 h5{
+    font-size: 19px;
+    margin-left: 435px;
 }
 .mono2{
-    height: 60px;
+    height: 80px;
+    background-color: black;
+}
+.mono1 h3{
+    text-align: center;
+    color: white;
+    font-size:30px;
+    margin-right: 549px;
+
+}
+
+
+.hoda {
+    color: dodgerblue;
+}
+.koda{
+    color: dodgerblue;
+}
+.a{
+    color: dodgerblue;
+}
+.b{
+    color: dodgerblue;
+}
+
+.mono1 p{
+    text-align: center;
+    line-height: 2;
+    font-size: 21px;
+    margin-top: -168px;
+}
+.mono2{
+    text-align: center;
+    padding: 25px;
+}
+
+.mono2 p{
+    color: white;
+}
+.f{
+    color: deepskyblue;
+}
+
+.polo{
+clip-path: polygon(51% 0,83% 12%,100% 43%,94% 78%,68% 100% , 32% 100% , 6% 78% , 0% 43%,17% 12%);
 }
